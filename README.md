@@ -4,7 +4,7 @@ This repository contains R scripts and resources for deconvolving bulk RNA-seq g
 
 ---
 
-## 🧠 Project Objective
+##  Project Objective
 
 To estimate **cell type proportions** in bulk RNA-seq samples of zebrafish and assess how they shift in response to environmental exposures. This is achieved through multimodal analysis by integrating:
 
@@ -14,7 +14,7 @@ To estimate **cell type proportions** in bulk RNA-seq samples of zebrafish and a
 ---
 
 
-## 📊 Script Details
+##  Script Details
 
 ### `deconvolution_bulk_zebrafish_to_zebrafish_pancreas.R`
 
@@ -34,7 +34,7 @@ To estimate **cell type proportions** in bulk RNA-seq samples of zebrafish and a
 
 ---
 
-## 🔧 Requirements
+##  Requirements
 
 - R (version ≥ 4.1)
 - CRAN & Bioconductor packages:
