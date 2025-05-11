@@ -50,3 +50,12 @@ To estimate **cell type proportions** in bulk RNA-seq samples of zebrafish and a
 ```r
 install.packages(c("ggplot2", "dplyr", "reshape2", "pheatmap"))
 BiocManager::install(c("MuSiC", "Seurat", "SingleCellExperiment", "Matrix", "Biobase", "scuttle"))
+
+---
+
+## License
+
+This repository is shared under an academic research license. For permission to reuse or cite the work, please contact the author(s).
+
+
+
